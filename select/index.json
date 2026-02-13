@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Shine",
+  "base_artist": "PENTAGON",
+  "createdAt": "2026-02-13T13:39:12.548147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Does That Blue Moon Ever Shine On You",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/01_Does_That_Blue_Moon_Ever_Shine_On_You_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Does That Blue Moon Ever Shine On You (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/02_Does_That_Blue_Moon_Ever_Shine_On_You_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get Your Shine On",
+      "artist": "Florida Georgia Line",
+      "has_synced": false,
+      "path": "select/03_Get_Your_Shine_On_Florida_Georgia_Line.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Your Shine On (Album Version)",
+      "artist": "Florida Georgia Line",
+      "has_synced": false,
+      "path": "select/04_Get_Your_Shine_On_(Album_Version)_Florida_Georgia_Line.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shine On Me",
+      "artist": "Troy Cartwright",
+      "has_synced": true,
+      "path": "select/05_Shine_On_Me_Troy_Cartwright.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shine, Shine, Shine",
+      "artist": "Eddy Raven",
+      "has_synced": false,
+      "path": "select/06_Shine,_Shine,_Shine_Eddy_Raven.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Can't Be A Beacon (If Your Light Don't Shine)",
+      "artist": "Donna Fargo",
+      "has_synced": false,
+      "path": "select/07_You_Can't_Be_A_Beacon_(If_Your_Light_Don't_Shine)_Donna_Fargo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shine On",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/08_Shine_On_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shine Over Me",
+      "artist": "曲婉婷",
+      "has_synced": true,
+      "path": "select/09_Shine_Over_Me_曲婉婷.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shine",
+      "artist": "John Legend feat. The Roots",
+      "has_synced": true,
+      "path": "select/10_Shine_John_Legend_feat._The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shine",
+      "artist": "John Legend & The Roots",
+      "has_synced": true,
+      "path": "select/11_Shine_John_Legend_&_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shine (Live)",
+      "artist": "John Legend feat. The Roots",
+      "has_synced": false,
+      "path": "select/12_Shine_(Live)_John_Legend_feat._The_Roots.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shine (Live)",
+      "artist": "John Legend & The Roots",
+      "has_synced": false,
+      "path": "select/13_Shine_(Live)_John_Legend_&_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shine (Waiting for \"Superman\" Version)",
+      "artist": "John Legend feat. The Roots",
+      "has_synced": true,
+      "path": "select/14_Shine_(Waiting_for__Superman__Version)_John_Legend_feat._The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shine (Waiting For \"Superman\" Version) (iTunes Bonus Track)",
+      "artist": "John Legend & The Roots",
+      "has_synced": true,
+      "path": "select/15_Shine_(Waiting_For__Superman__Version)_(iTunes_Bonus_Track)_John_Legend_&_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Show 'n Shine",
+      "artist": "Deichkind",
+      "has_synced": false,
+      "path": "select/16_Show_'n_Shine_Deichkind.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHINE",
+      "artist": "PENTAGON",
+      "has_synced": false,
+      "path": "select/pl_01_SHINE_PENTAGON.txt"
+    }
+  ]
+}
